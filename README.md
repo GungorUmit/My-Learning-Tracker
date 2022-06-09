@@ -13,6 +13,8 @@ I will share and document my learning process here. All skills, interests, resou
 |**Git**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**HTML**                  | ![done][done]     |                 |                |                 |
 |**C**                  | ![done][done]     |                  |                |                 |
+|**CSS**                  | ![done][done]     |                  |                |                 |
+|**JavaScript**                  | ![done][done]     |                  |                |                 |
 
 
 
