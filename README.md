@@ -30,7 +30,7 @@ I will share and document my learning process here. All skills, interests, resou
 | ![Completed][In Progress]     | Abril 2022 | 100 Days of Code: The Complete Python Pro Bootcamp for 2022                               | [Dr. Angela Yu https://www.udemy.com/course/100-days-of-code/]               |
 | ![Completed][In Progress]     | Jan 2022 | 2022 Complete Python Bootcamp From Zero to Hero in Python                                |[ Jose Portilla https://www.udemy.com/course/complete-python-bootcamp/ ]
 | ![Completed][In Progress]     | Jan 2022     | Python 3: Curso completo de cero a experto                             | [Numpi Cursos - https://www.udemy.com/course/python-3-curso-completo-de-cero-a-experto/learn/lecture/23018854?start=15#overview]    
-
+| ![Completed][In Progress]     | June 2022     | Curso de programación Teacht3ch(HTML, CSS, JavaScript                            | [Teacht3ch - https://www.teacht3ch.com/curso] 
 
 ----
 
